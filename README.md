@@ -1,5 +1,5 @@
 # api-management-platform
-A repository which exists just for the Issues.
+A repository which exists just for the [Issues](https://github.com/rcpch/api-management-platform/issues).
 
 * We use this repo for reporting of Issues with the RCPCH API Management platform [dev.rcpch.ac.uk](https://dev.rcpch.ac.uk)
 
